@@ -23,6 +23,6 @@ notifications:
     skip_join: true
   email:
     recipients:
-      - travis@edoburu.nl
+      - uruz@ur.uz
     on_success: never
     on_failure: always

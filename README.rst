@@ -1,6 +1,10 @@
-.. image::  https://travis-ci.org/edoburu/django-fluent-contents.png?branch=master
-  :target: http://travis-ci.org/edoburu/django-fluent-contents
+.. image::  https://travis-ci.org/uruz/django-fluent-contents.png?branch=develop
+  :target: http://travis-ci.org/uruz/django-fluent-contents
   :alt: build-status
+
+Attention
+=========
+This is a fork of original django-fluent-contents. Please report issues and submit pull requests to the original repository.
 
 Introduction
 ============
