@@ -12,7 +12,7 @@ script:
   - python runtests.py
 branches:
   only:
-    - master
+    - develop
 notifications:
   irc:
     channels:
